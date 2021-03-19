@@ -5,24 +5,24 @@
       "name": "Printer",
       "price": 300,
       "quantity": 100,
-      "selected": true,
+      "selected": false,
       "available": true
     },
     {
       "id": 3,
       "name": "Smartphones",
-      "price": 1200,
+      "price": "12002",
       "quantity": 100,
       "selected": true,
       "available": true
     },
     {
+      "id": 4,
       "name": "test",
-      "price": 0,
+      "price": "32",
       "quantity": 0,
       "selected": true,
-      "available": true,
-      "id": 4
+      "available": false
     }
   ]
 }
