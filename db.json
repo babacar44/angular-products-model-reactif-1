@@ -10,17 +10,17 @@
     },
     {
       "id": 3,
-      "name": "Smartphone",
+      "name": "Smartphones",
       "price": 1200,
       "quantity": 100,
-      "selected": false,
+      "selected": true,
       "available": true
     },
     {
       "name": "test",
       "price": 0,
       "quantity": 0,
-      "selected": false,
+      "selected": true,
       "available": true,
       "id": 4
     }
